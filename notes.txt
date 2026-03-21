@@ -32,3 +32,4 @@ resonance
 signal
 propagation
 energy
+distribution
