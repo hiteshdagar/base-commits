@@ -31,3 +31,4 @@ plasmon
 resonance
 signal
 propagation
+energy
