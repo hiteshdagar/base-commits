@@ -14,3 +14,4 @@ electric
 field
 magnetic
 mode
+analysis
