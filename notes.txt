@@ -28,3 +28,4 @@ conditions
 refractive
 index
 plasmon
+resonance
