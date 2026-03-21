@@ -12,3 +12,4 @@ frequency
 domain
 electric
 field
+magnetic
