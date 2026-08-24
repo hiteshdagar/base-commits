@@ -26,7 +26,6 @@ Ocean
 Marble
 Whisper
 Forest
-Bridge
 Sunrise
 Emerald
 Journey
