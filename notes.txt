@@ -51,7 +51,6 @@ Desert
 Comet
 Bridge
 Sunrise
-
 Journey
 Phoenix
 River
@@ -81,3 +80,11 @@ Aurora
 Pyramid
 Jungle
 Quasar
+Sculpture
+Galaxy
+Harbor
+Fountain
+Cedar
+Boulder
+Mirage
+Orbit
