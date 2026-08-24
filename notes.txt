@@ -22,8 +22,6 @@ Velvet
 Thunder
 Galaxy
 Lantern
-Ocean
-Marble
 Whisper
 Forest
 Sunrise
