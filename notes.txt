@@ -8,3 +8,4 @@ Melody
 Desert
 Comet
 Bridge
+Sunrise
