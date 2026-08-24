@@ -74,3 +74,5 @@ Diamond
 Horizon
 Waterfall
 Eclipse
+Starlight
+Mirror
