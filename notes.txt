@@ -1,6 +1,7 @@
-Lantern
-Galaxy
-Lantern
+
+Waterfall
+Eclipse
+Thunderstorm
 Galaxy
 Lantern
 Ocean
