@@ -13,6 +13,17 @@ Crystal
 Shadow
 Melody
 Desert
+CoGalaxy
+Lantern
+Ocean
+Marble
+Whisper
+Rocket
+Forest
+Crystal
+Shadow
+Melody
+Desert
 Comet
 Bridge
 Sunrise
@@ -46,6 +57,9 @@ Harmony
 Volcano
 Starlight
 Mirror
+Ancient
+Sapphire
+Dream
 Ancient
 Sapphire
 Dream
