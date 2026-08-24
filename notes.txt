@@ -6,3 +6,4 @@ Crystal
 Shadow
 Melody
 Desert
+Comet
