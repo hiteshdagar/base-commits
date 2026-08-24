@@ -27,9 +27,6 @@ Marble
 Whisper
 Rocket
 Forest
-
-
-Comet
 Bridge
 Sunrise
 Emerald
