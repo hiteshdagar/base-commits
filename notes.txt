@@ -76,3 +76,8 @@ Waterfall
 Eclipse
 Starlight
 Mirror
+Nebula
+Aurora
+Pyramid
+Jungle
+Quasar
