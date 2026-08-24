@@ -21,3 +21,4 @@ Canyon
 Velvet
 Thunder
 Galaxy
+Lantern
