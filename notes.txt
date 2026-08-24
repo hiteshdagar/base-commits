@@ -20,3 +20,4 @@ Butterfly
 Canyon
 Velvet
 Thunder
+Galaxy
