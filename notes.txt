@@ -30,7 +30,7 @@ Forest
 Crystal
 Shadow
 Melody
-Desert
+
 Comet
 Bridge
 Sunrise
