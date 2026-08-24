@@ -34,3 +34,4 @@ Desert
 Comet
 Bridge
 Sunrise
+Emerald
